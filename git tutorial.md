@@ -66,4 +66,4 @@ ctrl+S - сохранение
 * Fast-forward
 * Auto-merdge ORT
 
-## 4. Итоги
+## 4. Удаление ветки
