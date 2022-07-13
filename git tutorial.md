@@ -63,4 +63,7 @@ ctrl+S - сохранение
 
 ## 3. Конфликты
 
+* Fast-forward
+* Auto-merdge ORT
+
 ## 4. Итоги
